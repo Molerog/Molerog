@@ -5,7 +5,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molerog&show_icons=true&theme=midnight-purple&show_owner=1&text_color=09ea69&icon_color=800080)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molerog&show_icons=true&theme=midnight-purple&show_owner=1&text_color=09ea69&icon_color=800080&title_color=800080)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
