@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-https://visitor-badge.glitch.me/badge?page_id=Molerog.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Molerog.id&left_color=green&right_color=red)
 
 
 
