@@ -1,5 +1,5 @@
 ### Hi there 👋, I´m Germán
-<h3 align="center">A Fullstack Developer Student</h3>
+<h3 align="center">A Fullstack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=molergog&label=Profile%20views&color=0e75b6&style=flat" alt="molerog" /> </p>
 
 
@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I have just finished my studies in web development  **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [my Github](https://github.com/Molerog)
 
