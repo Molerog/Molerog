@@ -2,12 +2,9 @@
 <h3 align="center">A Full Stack Developer and Cibersecurity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=molergog&label=Profile%20views&color=0e75b6&style=flat" alt="molerog" /> </p>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=molerog.id&left_color=green&right_color=red)
-
 <br>
 
-- 🌱 I have just finished my studies in web development  **MERN Stack**
+- 🌱 I have just finished my studies in web development  **MERN Stack** and Cibersecurity
 
 - 👨‍💻 All of my projects are available at [my Github](https://github.com/Molerog)
 
